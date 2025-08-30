@@ -1,9 +1,9 @@
 [versions]
 # The latest versions are available at https://fabricmc.net/develop
-minecraft = "1.21.1"
+minecraft = "1.21.8"
 fabric_loader = "0.17.2"
-fabric_api = "0.116.6+1.21.1"
-sodium_version = "mc1.21.1-0.6.13-fabric"
+fabric_api = "0.133.0+1.21.8"
+sodium_version = "mc1.21.6-0.6.13-fabric"
 mod_menu_version = "11.0.3"
 joml_version = "1.10.5"
 

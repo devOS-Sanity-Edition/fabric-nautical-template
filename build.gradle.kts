@@ -26,7 +26,7 @@ dependencies {
 
 	mappings(loom.layered {
 		officialMojangMappings()
-		parchment("org.parchmentmc.data:parchment-1.21.1:2024.11.17@zip")
+		parchment("org.parchmentmc.data:parchment-1.21.8:2025.07.20@zip")
 	})
 
 	//Fabric
